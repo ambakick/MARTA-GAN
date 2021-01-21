@@ -13,7 +13,7 @@ NVIDIA GPU + CUDA CuDNN (CPU mode and CUDA without CuDNN mode are also available
 
 - tensorflow - 1.15.0
 - tensorlayer - 1.6.0
-- sklearn
+- sklearn - 0.20.4
 - numpy - 1.16.1
 
 ## Usage
