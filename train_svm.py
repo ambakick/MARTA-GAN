@@ -9,7 +9,7 @@ Created on Mon May 16 20:41:24 2016
 
 from time import time
 from sklearn.metrics import accuracy_score
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.externals import joblib
 
 from sklearn import svm
