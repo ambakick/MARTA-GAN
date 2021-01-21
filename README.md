@@ -11,9 +11,10 @@ Download and unzip dataset from [BaiDuYun](https://pan.baidu.com/s/1i5zQNdj) or 
 
 NVIDIA GPU + CUDA CuDNN (CPU mode and CUDA without CuDNN mode are also available but significantly slower)
 
-- tensorflow
-- tensorlayer
+- tensorflow - 1.15.0
+- tensorlayer - 1.6.0
 - sklearn
+- numpy - 1.16.1
 
 ## Usage
 
